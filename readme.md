@@ -6,15 +6,23 @@
 	
 	As women in infosec, we run a higher risk of getting stuck dealing with a sexual harassment or discrimination situation. Often by the time we realize what's happening it's too late or we are too surprised/exhausted/distraught to think clearly to know how to manage the situation properly. Given we can't always count on HR or our manager to support us or put our needs first, we need to know how to advocate for ourselves and what to do before the problem happens. I'm going to talk about what I've learned from my own experiences to help you be better prepared if it happens to you or someone you know.
 
+	[https://speakerdeck.com/amaya30/cya-sexual-harassment]()
+
 * **June 23, 2018: Beer City Code 2018**
 
 	***"Building Inclusive Tech"***
 
 	Want to make your team smarter, faster, stronger? Turning your team into one that is diverse and inclusive can accomplish this! How can we do that? How do you optimize for maximum team diversity? I’ll walk you through industry recommendations to help get you there.
 
+	[https://speakerdeck.com/amaya30/building-inclusive-tech]()
+
 * **November 28, 2017: Gonzaga University Women in Computer Science Group**
 
+	***"Women in Tech: Career Prep and Networking Tips"***
+
 	Spokane to the Women in Computer Science student group at Gonzaga University on prepping for entering industry.
+
+	[https://speakerdeck.com/amaya30/women-in-tech-career-prep-and-networking-tips]()
 
 * **October 17, 2016: Pacific Northwest Software Quality Conference 2016**
 
@@ -38,3 +46,5 @@
 	some of the common problems, solutions we used and the results we achieved. By following a similar
 	approach, you can also get positive stakeholder participation while meeting the testing needs of your
 	software team.
+
+	[https://speakerdeck.com/amaya30/building-stakeholder-confidence-through-an-automated-testing-solution]()
