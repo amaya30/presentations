@@ -1,6 +1,6 @@
 # Presentations #
 
-* **August 10, 2018: The Diana Initiative 2018**
+* **August 10, 2018: [The Diana Initiative](https://www.dianainitiative.org/) 2018**
 
 	***"CYA Sexual Harassment"***
 	
@@ -8,7 +8,7 @@
 
 	[https://speakerdeck.com/amaya30/cya-sexual-harassment]()
 
-* **June 23, 2018: Beer City Code 2018**
+* **June 23, 2018: [Beer City Code](https://beercitycode.com/) 2018**
 
 	***"Building Inclusive Tech"***
 
@@ -16,7 +16,7 @@
 
 	[https://speakerdeck.com/amaya30/building-inclusive-tech]()
 
-* **November 28, 2017: Gonzaga University Women in Computer Science Group**
+* **November 28, 2017: [Gonzaga University](https://www.gonzaga.edu/) Women in Computer Science Group**
 
 	***"Women in Tech: Career Prep and Networking Tips"***
 
@@ -24,7 +24,7 @@
 
 	[https://speakerdeck.com/amaya30/women-in-tech-career-prep-and-networking-tips]()
 
-* **October 17, 2016: Pacific Northwest Software Quality Conference 2016**
+* **October 17, 2016: [Pacific Northwest Software Quality Conference](https://www.pnsqc.org/) 2016**
 
 	***"Building Stakeholder Confidence Through an Automated Testing Solution"***
 
