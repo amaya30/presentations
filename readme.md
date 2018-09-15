@@ -1,5 +1,13 @@
 # Presentations #
 
+* **September 15, 2018: [Seattle Code Camp](https://seattle.codecamp.us/) 2018
+
+	***"The Human Element of DevOps"***
+
+	DevOps is the collaboration of development and operations working toward a common goal of delivering software in high efficiency. We often think of the tools and processes involved in this partnership when DevOps comes up -- scripting, automation, CI/CD, etc. In addition to the technological aspect of DevOps, there is a huge human element that needs to stay in focus. I'll cover the different parts of the people side of DevOps including culture, diversity, psychology, and why the technology side is so important.
+
+	[https://speakerdeck.com/amaya30/the-human-element-of-devops/edit]()
+
 * **August 10, 2018: [The Diana Initiative](https://www.dianainitiative.org/) 2018**
 
 	***"CYA Sexual Harassment"***
