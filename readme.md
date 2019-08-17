@@ -74,7 +74,7 @@
 
 * **October 17, 2016: [Pacific Northwest Software Quality Conference](https://www.pnsqc.org/) 2016**
 
-	***"Building Stakeholder Confidence Through an Automated Testing Solution"***
+	***Building Stakeholder Confidence Through an Automated Testing Solution***
 
 	How do you build stakeholder confidence in your software and also help minimize time spent on manual
 	User Acceptance Testing (UAT) efforts? By getting stakeholders involved in the development of an
