@@ -1,6 +1,46 @@
 # Presentations #
 
-* **September 15, 2018: [Seattle Code Camp](https://seattle.codecamp.us/) 2018
+* **August 10, 2019: [DEFCON27 - SEVillage](https://www.social-engineer.org/sevillage-def-con/)**
+
+	***Hacking Your Career Through Social Engineering***
+
+	Social engineering is a special form of hacking that bridges our technical skills with a deep understanding of human behavior. Many of us use this special blend of techniques to assist in our various colors of hacking but even those of us not in a professional social engineering, hacking, or penetration testing role can use these skills to aid in our career success. Social engineering has a wonderful set of techniques that can be used to help you enter into a new job, a new career, get a promotion, self promote, overcome imposter syndrome, plus many other situations. This talk will walk through the ways we can apply our knowledge of social engineering to any job and any career to help us be successful.
+
+	[https://speakerdeck.com/amaya30/hacking-your-career-through-social-engineering-bc18987e-e39b-4bbd-a1b7-5c06c6c1423e]()
+
+* **August 7, 2019: [WA ACTE Summer Conference](https://www.acteonline.org/event/wa-acte-summer-conference-2019/)**
+
+	***Community Partner: Future Ada***
+
+	[https://speakerdeck.com/amaya30/community-partner-future-ada]()
+
+* **March 23, 2019: [SQL Saturday Spokane](https://www.sqlsaturday.com/822/eventhome.aspx) 2019**
+
+	*** Antipattern Assumptions in Data***
+
+	While we are engineers, we are still people full of assumptions, biases and unchecked preconceptions about society and other people.  This impacts our design patterns for software and databases. When we design architecture that is limited based on our assumptions, we can find our products limiting and creating user experience problems.  In this session, we will discuss common antipattern assumptions that cause these limitations in our architecture design.  We will also talk through the importance of creating a diverse team to help broaden perspectives and increase innovation which can help counter these antipatterns to pave the way for higher quality products.
+
+	[https://speakerdeck.com/amaya30/antipattern-assumptions-in-data]()
+
+* **March 9, 2019: GirlConNW**
+
+	***The Power of Authenticity, Vulnerability, and Being Brave***
+
+	[https://speakerdeck.com/amaya30/the-power-of-authenticity-vulnerability-and-being-brave]()
+
+* **October 8, 2018: [Pacific Northwest Software Quality Conference](https://www.pnsqc.org) 2018**
+
+	***Diverse Teams Are Essential to Quality Software***
+
+	It has been shown that having diverse teams lead to increased problem-solving abilities. Solving complex problems is pivotal to software engineering and producing high-quality software. It’s natural to conclude that creating diverse software teams is a key element on the road to software quality. Rather than only thinking of quality in terms of testing by quality assurance engineers, I would challenge you to consider the broader aspects of the other factors that play into creating quality software. Team composition is critical to software quality output.
+
+	This paper will discuss ways you can create a diverse software team and highlight examples of what Future Ada, a Spokane based non-profit, is doing to help build a strong diverse workforce.
+
+	[https://www.pnsqc.org/diverse-teams-are-essential-for-quality-software/]()
+
+	[https://speakerdeck.com/amaya30/diverse-teams-are-essential-for-quality-software]()
+
+* **September 15, 2018: [Seattle Code Camp](https://seattle.codecamp.us/) 2018**
 
 	***"The Human Element of DevOps"***
 
