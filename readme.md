@@ -6,6 +6,8 @@
 
 	Social engineering is a special form of hacking that bridges our technical skills with a deep understanding of human behavior. Many of us use this special blend of techniques to assist in our various colors of hacking but even those of us not in a professional social engineering, hacking, or penetration testing role can use these skills to aid in our career success. Social engineering has a wonderful set of techniques that can be used to help you enter into a new job, a new career, get a promotion, self promote, overcome imposter syndrome, plus many other situations. This talk will walk through the ways we can apply our knowledge of social engineering to any job and any career to help us be successful.
 
+	[https://www.youtube.com/watch?v=MvdB0BlTeJY&feature=youtu.be]()
+
 	[https://speakerdeck.com/amaya30/hacking-your-career-through-social-engineering-bc18987e-e39b-4bbd-a1b7-5c06c6c1423e]()
 
 * **August 7, 2019: [WA ACTE Summer Conference](https://www.acteonline.org/event/wa-acte-summer-conference-2019/)**
@@ -94,5 +96,7 @@
 	some of the common problems, solutions we used and the results we achieved. By following a similar
 	approach, you can also get positive stakeholder participation while meeting the testing needs of your
 	software team.
+
+	[https://www.youtube.com/watch?v=AOeeZjxn3EQ]()
 
 	[https://speakerdeck.com/amaya30/building-stakeholder-confidence-through-an-automated-testing-solution]()
