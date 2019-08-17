@@ -1,6 +1,6 @@
 # Presentations #
 
-* **August 10, 2019: [DEFCON27 - SEVillage](https://www.social-engineer.org/sevillage-def-con/)**
+* **August 10, 2019: [DEFCON27 - SEVillage](https://www.social-engineer.org/sevillage-def-con/), Las Vegas, NV**
 
 	***Hacking Your Career Through Social Engineering***
 
@@ -10,13 +10,13 @@
 
 	[https://speakerdeck.com/amaya30/hacking-your-career-through-social-engineering-bc18987e-e39b-4bbd-a1b7-5c06c6c1423e]()
 
-* **August 7, 2019: [WA ACTE Summer Conference](https://www.acteonline.org/event/wa-acte-summer-conference-2019/)**
+* **August 7, 2019: [WA ACTE Summer Conference](https://www.acteonline.org/event/wa-acte-summer-conference-2019/), Spokane, WA**
 
 	***Community Partner: Future Ada***
 
 	[https://speakerdeck.com/amaya30/community-partner-future-ada]()
 
-* **March 23, 2019: [SQL Saturday Spokane](https://www.sqlsaturday.com/822/eventhome.aspx) 2019**
+* **March 23, 2019: [SQL Saturday Spokane](https://www.sqlsaturday.com/822/eventhome.aspx) 2019, Spokane, WA**
 
 	***Antipattern Assumptions in Data***
 
@@ -24,13 +24,13 @@
 
 	[https://speakerdeck.com/amaya30/antipattern-assumptions-in-data]()
 
-* **March 9, 2019: GirlConNW**
+* **March 9, 2019: GirlConNW, Spokane, WA**
 
 	***The Power of Authenticity, Vulnerability, and Being Brave***
 
 	[https://speakerdeck.com/amaya30/the-power-of-authenticity-vulnerability-and-being-brave]()
 
-* **October 8, 2018: [Pacific Northwest Software Quality Conference](https://www.pnsqc.org) 2018**
+* **October 8, 2018: [Pacific Northwest Software Quality Conference](https://www.pnsqc.org) 2018, Portland, OR**
 
 	***Diverse Teams Are Essential to Quality Software***
 
@@ -42,7 +42,7 @@
 
 	[https://speakerdeck.com/amaya30/diverse-teams-are-essential-for-quality-software]()
 
-* **September 15, 2018: [Seattle Code Camp](https://seattle.codecamp.us/) 2018**
+* **September 15, 2018: [Seattle Code Camp](https://seattle.codecamp.us/) 2018, Seattle, WA**
 
 	***The Human Element of DevOps***
 
@@ -50,7 +50,7 @@
 
 	[https://speakerdeck.com/amaya30/the-human-element-of-devops/edit]()
 
-* **August 10, 2018: [The Diana Initiative](https://www.dianainitiative.org/) 2018**
+* **August 10, 2018: [The Diana Initiative](https://www.dianainitiative.org/) 2018, Las Vegas, NV**
 
 	***CYA Sexual Harassment***
 	
@@ -58,7 +58,7 @@
 
 	[https://speakerdeck.com/amaya30/cya-sexual-harassment]()
 
-* **June 23, 2018: [Beer City Code](https://beercitycode.com/) 2018**
+* **June 23, 2018: [Beer City Code](https://beercitycode.com/) 2018, Grand Rapids, MI**
 
 	***Building Inclusive Tech***
 
@@ -66,7 +66,7 @@
 
 	[https://speakerdeck.com/amaya30/building-inclusive-tech]()
 
-* **November 28, 2017: [Gonzaga University](https://www.gonzaga.edu/) Women in Computer Science Group**
+* **November 28, 2017: [Gonzaga University](https://www.gonzaga.edu/) Women in Computer Science Group, Spokane, WA**
 
 	***Women in Tech: Career Prep and Networking Tips***
 
@@ -74,7 +74,7 @@
 
 	[https://speakerdeck.com/amaya30/women-in-tech-career-prep-and-networking-tips]()
 
-* **October 17, 2016: [Pacific Northwest Software Quality Conference](https://www.pnsqc.org/) 2016**
+* **October 17, 2016: [Pacific Northwest Software Quality Conference](https://www.pnsqc.org/) 2016, Portland, OR**
 
 	***Building Stakeholder Confidence Through an Automated Testing Solution***
 
@@ -100,3 +100,11 @@
 	[https://www.youtube.com/watch?v=AOeeZjxn3EQ]()
 
 	[https://speakerdeck.com/amaya30/building-stakeholder-confidence-through-an-automated-testing-solution]()
+
+* **June 14, 2010: IWia2010, Morioka, Japan**
+
+	***Usable Security Policies + User Training: The Best Method to Counter Social Engineering Attacks***
+
+	Security is a foremost concern for any institution. Investing in the best technological and physical security products only go so far to protect a system and often forget to take the users into account. A social engineer can fairly easily manipulate a system user into granting him or her access despite all the security measures taken. The best method to counter a social engineering attack is to implement usable security policies so users know what to do, and to give all users proper training so they know why they need to follow the policies
+
+	[https://speakerdeck.com/amaya30/usable-security-policies-plus-user-training-the-best-method-to-counter-social-engineering-attacks]()
