@@ -16,7 +16,7 @@
 
 * **March 23, 2019: [SQL Saturday Spokane](https://www.sqlsaturday.com/822/eventhome.aspx) 2019**
 
-	*** Antipattern Assumptions in Data***
+	***Antipattern Assumptions in Data***
 
 	While we are engineers, we are still people full of assumptions, biases and unchecked preconceptions about society and other people.  This impacts our design patterns for software and databases. When we design architecture that is limited based on our assumptions, we can find our products limiting and creating user experience problems.  In this session, we will discuss common antipattern assumptions that cause these limitations in our architecture design.  We will also talk through the importance of creating a diverse team to help broaden perspectives and increase innovation which can help counter these antipatterns to pave the way for higher quality products.
 
@@ -42,7 +42,7 @@
 
 * **September 15, 2018: [Seattle Code Camp](https://seattle.codecamp.us/) 2018**
 
-	***"The Human Element of DevOps"***
+	***The Human Element of DevOps***
 
 	DevOps is the collaboration of development and operations working toward a common goal of delivering software in high efficiency. We often think of the tools and processes involved in this partnership when DevOps comes up -- scripting, automation, CI/CD, etc. In addition to the technological aspect of DevOps, there is a huge human element that needs to stay in focus. I'll cover the different parts of the people side of DevOps including culture, diversity, psychology, and why the technology side is so important.
 
@@ -50,7 +50,7 @@
 
 * **August 10, 2018: [The Diana Initiative](https://www.dianainitiative.org/) 2018**
 
-	***"CYA Sexual Harassment"***
+	***CYA Sexual Harassment***
 	
 	As women in infosec, we run a higher risk of getting stuck dealing with a sexual harassment or discrimination situation. Often by the time we realize what's happening it's too late or we are too surprised/exhausted/distraught to think clearly to know how to manage the situation properly. Given we can't always count on HR or our manager to support us or put our needs first, we need to know how to advocate for ourselves and what to do before the problem happens. I'm going to talk about what I've learned from my own experiences to help you be better prepared if it happens to you or someone you know.
 
@@ -58,7 +58,7 @@
 
 * **June 23, 2018: [Beer City Code](https://beercitycode.com/) 2018**
 
-	***"Building Inclusive Tech"***
+	***Building Inclusive Tech***
 
 	Want to make your team smarter, faster, stronger? Turning your team into one that is diverse and inclusive can accomplish this! How can we do that? How do you optimize for maximum team diversity? I’ll walk you through industry recommendations to help get you there.
 
@@ -66,7 +66,7 @@
 
 * **November 28, 2017: [Gonzaga University](https://www.gonzaga.edu/) Women in Computer Science Group**
 
-	***"Women in Tech: Career Prep and Networking Tips"***
+	***Women in Tech: Career Prep and Networking Tips***
 
 	Spokane to the Women in Computer Science student group at Gonzaga University on prepping for entering industry.
 
